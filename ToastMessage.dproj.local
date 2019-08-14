@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/04/09 12:07:34.000.885,=D:\Documentos\Embarcadero Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/20 16:06:25.000.810,=D:\Documentos\Embarcadero Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/20 18:49:33.000.431,D:\Documentos\Embarcadero Projects\Unit1.pas=D:\Documentos\Embarcadero Projects\Toast Message\untPrincipal.pas</Transaction>
+    <Transaction>2019/04/20 18:49:33.000.431,D:\Documentos\Embarcadero Projects\Unit1.fmx=D:\Documentos\Embarcadero Projects\Toast Message\untPrincipal.fmx</Transaction>
+    <Transaction>2019/04/20 18:49:40.000.913,D:\Documentos\Embarcadero Projects\Project1.dproj=D:\Documentos\Embarcadero Projects\Toast Message\ToastMessage.dproj</Transaction>
+    <Transaction>2019/04/20 22:58:10.000.168,=D:\Documentos\Embarcadero Projects\Toast Message\Uses\Androidapi.JNI.Toasts.pas</Transaction>
+    <Transaction>2019/04/20 23:11:31.000.038,=D:\Documentos\Embarcadero Projects\Toast Message\Uses\toast_unit.pas</Transaction>
+    <Transaction>2019/04/20 23:24:06.000.596,D:\Documentos\Embarcadero Projects\Toast Message\Uses\toast_unit.pas=</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
